@@ -1,0 +1,21 @@
+body {
+    
+}
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+}
+
+tr.primaria {
+    background-color: rgb(227, 222, 222);
+}
+
+tr {
+    border-radius: 5px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
